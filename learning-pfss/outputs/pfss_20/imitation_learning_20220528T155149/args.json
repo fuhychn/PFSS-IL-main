@@ -54,6 +54,6 @@
  "no_tensorboard": false,
  "no_progress_bar": false,
  "no_cuda": false,
- "use_cuda": true,
+ "use_cuda": false,
  "save_dir": "outputs/pfss_20/imitation_learning_20220528T155149"
 }
